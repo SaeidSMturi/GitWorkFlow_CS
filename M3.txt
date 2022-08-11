@@ -1,0 +1,2 @@
+This is the third Master(Main) text file and also third commit of Master
+-> after creation of Feature-A branch -> before merge
